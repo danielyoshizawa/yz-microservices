@@ -38,3 +38,8 @@ build/
 
 # IDE stuff
 .idea
+
+# Annotations
+annotations.file
+
+
