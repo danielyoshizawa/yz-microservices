@@ -7,17 +7,17 @@
 namespace yz
 {
 
-    yz::service::~service()
+    service::~service()
     {
 
     }
 
-    yz::service::service(const std::string &name) : name(name)
+    service::service(const std::string &name) : name(name)
     {
 
     }
 
-    std::string yz::service::WhatIsYourName() const
+    std::string service::WhatIsYourName() const
     {
         return name;
     }

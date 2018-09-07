@@ -1,7 +1,3 @@
-//
-// Created by Daniel Yoshizawa on 12/28/17.
-//
-
 #define CATCH_CONFIG_MAIN
 #include "catch.hpp"
 
